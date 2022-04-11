@@ -6,7 +6,7 @@ Currently building for web3 using Reactjs and React-native
 
 ## Tech Stack
 
-**Client:** React, React-native, SwiftUI, Redux, Chakra-ui, GraphQL-Apollo
+**Client:** React, React-native, SwiftUI, Redux, Chakra-ui, Objective C, GraphQL-Apollo, Kotlin
 
 **Server:** Node, Express, MSQl, PHP, Firebase, Solidity
 
