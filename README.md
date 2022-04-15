@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hi there  👋
+
+## My name is Orji "Ace" joseph
+
+Senior Frontend Engineer [Truzact](https://truzact.com)
+
 
 Building useful products that solves both technical and non technical problems is reason i have a github account 😄
-Currently building for web3 using Reactjs and React-native
+Currently building for web3. 
 
 
 ## Tech Stack
