@@ -5,13 +5,13 @@
 Senior Frontend Engineer [Truzact](https://truzact.com)
 
 
-Building useful products that solves both technical and non technical problems is reason i have a github account 😄
+Building useful products that solves both technical and non technical problems is the reason i have a github account 😄
 Currently building for web3. 
 
 
 ## Tech Stack
 
-**Client:** React, React-native, SwiftUI, Redux, Chakra-ui, Objective C, GraphQL-Apollo, Kotlin
+**Client:** React, React-native, Swift, Redux, GraphQL-Apollo, Kotlin, Javascript, Typescript
 
 **Server:** Node, Express, MSQl, PHP, Firebase, Solidity
 
