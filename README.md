@@ -2,7 +2,7 @@
 
 ## My name is Orji "Ace" joseph
 
-Lead Frontend Engineer [Truzact](https://truzact.com)
+Fullstack Engineer 
 
 
 Building useful products that solves both technical and non technical problems is the reason i have a github account 😄
