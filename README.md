@@ -17,10 +17,8 @@ Currently building for web3.
 
 
 
-- 🔭 I’m currently working on ... React native Dapplications
-- 🌱 I’m currently learning ... SwiftUI, Objective C
 - 👯 I’m looking to collaborate on ... Web3 
 - 💬 Full portfolio ... [My Website](https://orji.dev)
 - 📫 How to reach me: ... [Twitter](https://twitter.com/orjiace_)
-- ⚡ Fun fact: ... An Artist 🎨
+- ⚡ Fun fact: ... I Paint 🎨
 -->
