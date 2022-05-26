@@ -15,8 +15,6 @@ Currently building for web3.
 
 **Server:** Node, Express, MSQl, PHP, Firebase, Solidity
 
-[![Orji's GitHub stats](https://github-readme-stats.vercel.app/api?username=orjiace)](https://github.com/anuraghazra/github-readme-stats)
-
 - 👯 I’m looking to collaborate on ... Web3 
 - 💬 Full portfolio ... [My Website](https://orji.dev)
 - 📫 How to reach me: ... [Twitter](https://twitter.com/orjiace_)
