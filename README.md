@@ -11,9 +11,9 @@ Currently building for web3.
 
 ## Tech Stack
 
-**Client:** React, React-native, Swift, Redux, GraphQL-Apollo, Kotlin, Javascript, Typescript
+**FRONTEND:** React, React-native, Swift, Redux, Kotlin, Javascript, Typescript
 
-**Server:** Node, Express, MSQl, PHP, Firebase, Solidity
+**BACKEND:** Node, Express, MSQl, PHP, Firebase, Solidity
 
 - 👯 I’m looking to collaborate on ... Web3 
 - 💬 Full portfolio ... [My Website](https://orji.dev)
