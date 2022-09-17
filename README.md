@@ -2,7 +2,7 @@
 
 ## My name is Orji "Ace" joseph
 
-Fullstack Engineer 
+Leading Engineering at [Brace Finance](https://twitter.com/bracefinance)
 
 
 Building useful products that solves both technical and non technical problems is the reason i have a github account 😄
