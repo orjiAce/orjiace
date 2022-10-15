@@ -2,7 +2,7 @@
 
 ## My name is Orji "Ace" joseph
 
-Leading Engineering at [Brace Finance](https://twitter.com/bracefinance)
+Leading Engineering at [Brace Finance](https://www.brace.finance/)
 
 
 Building useful products that solves both technical and non technical problems is the reason i have a github account 😄
